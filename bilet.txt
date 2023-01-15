@@ -1,0 +1,3 @@
+cod: 1
+denumire: "Doi pe-o banca"
+pret: 100
